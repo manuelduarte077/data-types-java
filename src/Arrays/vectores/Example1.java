@@ -1,4 +1,4 @@
-package vectores;
+package Arrays.vectores;
 
 /**
  * Programa que muestra diversos elementos de un vector

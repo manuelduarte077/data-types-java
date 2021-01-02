@@ -1,4 +1,4 @@
-package vectores;
+package Arrays.vectores;
 
 /**
  * Programa que muestra el número de apuestas que son necesarias para que se acierten 6 números dados en la lotería primitiva.

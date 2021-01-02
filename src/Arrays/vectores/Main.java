@@ -1,4 +1,4 @@
-package vectores;
+package Arrays.vectores;
 
 /**
  * Programa que carga automáticamente en un vector las letras del abecedario indicando el tamaño del vector en una constante.

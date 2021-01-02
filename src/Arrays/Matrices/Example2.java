@@ -1,4 +1,4 @@
-package Matrices;
+package Arrays.Matrices;
 public class Example2 {
 
     public static void main(String[] args) {
